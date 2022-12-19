@@ -1,0 +1,16 @@
+.formCSS{
+  position: relative;  
+  left: 850px;
+  top:150px;
+}
+input{
+    position: relative;  
+    border-radius: 23px;
+    height: 20px;
+}
+table{
+  position: relative;  
+  left: 850px;
+  top:150px;
+  border-spacing: 20px;
+}
